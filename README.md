@@ -12,7 +12,7 @@ The data in this repository is organized to map real-world human telemetry direc
 ## The Ingestion Gate (For Data Givers)
 To contribute to the data matrix, upload your raw Empatica EmbracePlus telemetry files here. 
 
-[👉 CLICK HERE TO DRAG & DROP YOUR RAW SENSOR .CSV FILES](https://drive.proton.me/urls/N2ZWNNXNNXNWW#6LpheqxN97XM)
+[👉 CLICK HERE TO DRAG & DROP YOUR RAW SENSOR .CSV FILES](https://drive.proton.me/urls/N2ZWNNXNWW#6LpheqxN97XM)
 
 *Note: Our system operates under a strict, non-semantic data policy. Only raw integers and numerical timestamps are accepted. All hardware metadata headers are stripped upon processing to maintain absolute participant anonymity.*
 
